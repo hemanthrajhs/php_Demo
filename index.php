@@ -6,6 +6,6 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body>
-        <h1><?php echo 'Hi Welcome to Hemanth web page'; ?></h1>
+        <h1><?php echo 'Hi Welcome to EBS'; ?></h1>
 </body>
 </html>
